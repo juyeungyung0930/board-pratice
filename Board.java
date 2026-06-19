@@ -1,3 +1,4 @@
+//B계정이 주석추가함
 public class Board {
 private int id;
 private String title;
