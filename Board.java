@@ -1,3 +1,4 @@
+//a계정 추가한 주석
 public class Board {
 private int id;
 private String title;
