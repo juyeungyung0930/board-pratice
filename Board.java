@@ -1,4 +1,5 @@
 //B계정이 주석추가함
+//a계정 추가한 주석
 public class Board {
 private int id;
 private String title;
